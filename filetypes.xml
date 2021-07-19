@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="commit-msg-lint" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="dependencies-install" type="Shell Script" />
+      <mapping pattern="setup_credentials" type="Shell Script" />
+      <mapping pattern="commit-msg-check" type="Shell Script" />
+      <mapping pattern="artifact-setup" type="Shell Script" />
+      <mapping pattern="artifact_setup" type="Shell Script" />
+      <mapping pattern="codeartifact-setup" type="Shell Script" />
+      <mapping pattern="commit-msg" type="Shell Script" />
+      <mapping pattern="purchase_button_attrs" type="XML" />
+    </extensionMap>
+  </component>
+</application>

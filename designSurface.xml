@@ -1,0 +1,34 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.2578125" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../external-libraries/products_v2/products-course/src/main/res/layout/course_class_fragment.xml" value="0.3473731884057971" />
+        <entry key="../external-libraries/products_v2/products-course/src/main/res/layout/player_test_layout.xml" value="0.3473731884057971" />
+        <entry key="../external-libraries/products_v2/products-list/src/main/res/layout/download_center_product_content_fragment.xml" value="0.37182971014492755" />
+        <entry key="../external-libraries/products_v2/products-list/src/main/res/layout/download_center_products_fragment.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/buttons.xml" value="0.37817028985507245" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.23645833333333333" />
+        <entry key="app/src/main/res/layout/item_location_details_review_cell.xml" value="0.27887537993920974" />
+        <entry key="app/src/main/res/layout/location_detail_fragment.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/location_detail_review_list_item.xml" value="0.17135416666666667" />
+        <entry key="app/src/main/res/layout/location_list_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/location_list_item.xml" value="0.17255434782608695" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.3875968992248062" />
+        <entry key="app/src/main/res/layout/shit_activity.xml" value="0.23229166666666667" />
+        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.40677083333333336" />
+        <entry key="app/src/main/res/layout/store_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/video_activity.xml" value="0.4020486555697823" />
+        <entry key="app/src/main/res/layout/video_fragment.xml" value="0.11296859169199595" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.24722222222222223" />
+        <entry key="features/in-app-billing/src/main/res/layout/in_app_billing_activity.xml" value="0.1" />
+        <entry key="features/profile/src/main/res/layout/fragment_profile.xml" value="0.36141304347826086" />
+        <entry key="features/profile/src/main/res/layout/item_community.xml" value="0.36141304347826086" />
+        <entry key="features/profile/src/main/res/layout/item_title_community.xml" value="0.36141304347826086" />
+        <entry key="genplayer/src/main/res/layout/player_view_surface.xml" value="0.16354166666666667" />
+      </map>
+    </option>
+  </component>
+</application>
