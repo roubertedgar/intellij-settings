@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="styles_legacy" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="commit-msg-lint" type="PLAIN_TEXT" />
-      <mapping ext="klib" type="PLAIN_TEXT" />
       <mapping pattern="setup_credentials" type="Shell Script" />
       <mapping pattern="artifact-setup" type="Shell Script" />
       <mapping pattern="artifact_setup" type="Shell Script" />
@@ -14,7 +15,6 @@
       <mapping pattern="codeartifact-setup" type="Shell Script" />
       <mapping pattern="purchase_button_attrs" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
