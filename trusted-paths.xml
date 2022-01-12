@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Project/hotmart/sparkle-android/external-libraries/sparkle-product/source" />
+      </list>
+    </option>
+  </component>
+</application>
